@@ -33,7 +33,7 @@ Linux is everywhere:
 
 ### 🔹 Linux vs Windows  
 | Feature | Linux | Windows |  
-||-||  
+|---------|-------|---------|  
 | **Cost** | Free & open-source | Paid license |  
 | **Security** | Very secure (fewer viruses) | More vulnerable to malware |  
 | **Customization** | Highly customizable | Limited customization |  

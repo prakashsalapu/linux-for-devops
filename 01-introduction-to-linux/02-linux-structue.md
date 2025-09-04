@@ -1,12 +1,9 @@
-# Linux Essentials  
-## 2. Structure of Linux  
 
----
+## 2. Structure of Linux  
 
 ### 🔹 Simple View of Linux Structure  
 
----
-
+```plaintext
 +----------------------------------------------------+
 | User Applications (Vim, Docker, Apache, Chrome) |
 +----------------------------------------------------+

@@ -18,13 +18,13 @@
 | Hardware (CPU, RAM, Disk, Network, Devices) |
 +----------------------------------------------------+
 ```
----
+
 
 ### (a) Hardware Layer  
 - This is the **physical part of your computer**: CPU, RAM, storage, keyboard, mouse, and network card.  
 - The OS talks to hardware using **device drivers** (small programs that connect hardware with software).  
 
----
+
 
 ### (b) Kernel – The Core of Linux  
 The **Linux Kernel** is the heart of the OS. It directly controls the hardware and provides services to everything above it.  
@@ -38,7 +38,7 @@ It handles:
 
 👉 Without the kernel, Linux cannot run.  
 
----
+
 
 ### (c) System Utilities & Libraries  
 - **System Libraries** → Pre-written code that programs use to work with the kernel (e.g., `glibc`, `OpenSSL`).  
@@ -46,7 +46,7 @@ It handles:
 
 👉 Together, these act as the **toolbox** for Linux.  
 
----
+
 
 ### (d) Shell (Command Line Interface – CLI)  
 - The **Shell** is like a translator between you and the kernel.  
@@ -55,7 +55,7 @@ It handles:
 
 👉 Without the shell, you cannot directly “talk” to Linux.  
 
----
+
 
 ### (e) User Applications  
 - These are the programs you use daily:  
@@ -65,7 +65,7 @@ It handles:
   - Browsers, media players, IDEs, etc.  
 - Applications interact with the OS via **system calls** (through shell or GUI).  
 
----
+
 
 ### ✅ Summary  
 Linux is structured in **layers**:  

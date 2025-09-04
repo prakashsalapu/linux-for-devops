@@ -1,7 +1,7 @@
 # Linux Essentials  
 ## 1. Fundamentals of Linux  
 
----
+
 
 ### 🔹 What is Linux?  
 - Linux is an **operating system (OS)**, just like Windows or macOS.  
@@ -10,7 +10,7 @@
 
 👉 Think of Linux as the **engine** of a car. You may not see it directly, but it powers everything.  
 
----
+
 
 ### 🔹 A Short History of Linux  
 - In 1991, a student named **Linus Torvalds** created Linux as a small personal project.  
@@ -19,7 +19,7 @@
 
 👉 Fun fact: **96% of the top 1 million web servers run on Linux!**  
 
----
+
 
 ### 🔹 Applications of Linux  
 Linux is everywhere:  
@@ -29,11 +29,11 @@ Linux is everywhere:
 - **Supercomputers**: Almost all of them run on Linux.  
 - **Development**: Preferred by programmers and DevOps engineers.  
 
----
+
 
 ### 🔹 Linux vs Windows  
 | Feature | Linux | Windows |  
-|---------|-------|---------|  
+||-||  
 | **Cost** | Free & open-source | Paid license |  
 | **Security** | Very secure (fewer viruses) | More vulnerable to malware |  
 | **Customization** | Highly customizable | Limited customization |  
@@ -42,7 +42,7 @@ Linux is everywhere:
 
 👉 Simple point: If you want **control + security + performance**, Linux wins. If you want **ease + compatibility for gaming/office apps**, Windows wins.  
 
----
+
 
 ### 🔹 Core Components of Linux  
 Linux is made up of several key parts:  
@@ -54,7 +54,7 @@ Linux is made up of several key parts:
 
 👉 Together, these components make Linux work smoothly.  
 
----
+
 
 ### 🔹 Setup Linux on Windows & macOS  
 You don’t need a separate computer to try Linux! Options:  
@@ -70,7 +70,7 @@ You don’t need a separate computer to try Linux! Options:
 
 👉 For beginners, **WSL (Windows)** or **VirtualBox** is the easiest way.  
 
----
+
 
 ### ✅ Summary  
 Linux is a **free, powerful, secure operating system** that powers most of the modern world.  

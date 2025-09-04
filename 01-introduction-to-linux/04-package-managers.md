@@ -1,4 +1,3 @@
-# Linux Essentials  
 ## 4. Linux Package Managers  
 
 ### 🔹 What is a Package Manager?  
@@ -17,9 +16,9 @@ It saves time compared to manually downloading and installing software.
 | **Flatpak**    | Ubuntu, Fedora, etc. | `flatpak install flathub org.gimp.GIMP` | Cross-distro GUI apps |
 
 ### 🔹 Visual Flow: How a Package Manager Works  
-
+```
 User Command → Package Manager → Downloads Software → Installs → Updates / Removes
-
+```
 
 ### 🔹 Quick Tips for Beginners  
 - Always **update package list** before installing: `sudo apt update`  
